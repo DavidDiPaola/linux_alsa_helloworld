@@ -1,0 +1,7 @@
+# linux_alsa_helloworld
+simple audio playback example using ALSA
+
+## dependencies
+  - ALSA development library
+  - ffmpeg (to convert the .ogg file to raw audio)
+
